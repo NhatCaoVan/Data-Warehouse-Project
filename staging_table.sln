@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "staging_table", "staging_table\staging_table.dtproj", "{DDE2FC45-FB98-453D-B5CE-1F8D145F4DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE2FC45-FB98-453D-B5CE-1F8D145F4DB9}.Development|Default.ActiveCfg = Development
+		{DDE2FC45-FB98-453D-B5CE-1F8D145F4DB9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DD7D7D-CEDF-4AF3-8473-9E543CB3AAD5}
+	EndGlobalSection
+EndGlobal
